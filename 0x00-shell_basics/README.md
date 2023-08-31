@@ -1,5 +1,2 @@
-#!/bin/bash 
-
-echo " pwd this command to prints  the current working directory "
-
-
+#!/bin/bash
+script that prints the absolute path name of the current working director 
