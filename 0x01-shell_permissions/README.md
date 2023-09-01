@@ -1,1 +1,2 @@
- script that switches the current user
+#!/bin/bash
+script that switches the current user to the user
